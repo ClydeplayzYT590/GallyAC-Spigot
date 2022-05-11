@@ -1,2 +1,2 @@
 # GallyAC-Spigot
-GallyAC is a free anticheat desigmed for Spigot &amp; Lethals Network (Java version)
+GallyAC is a free anticheat designed for Spigot &amp; Lethals Network (Java version)
