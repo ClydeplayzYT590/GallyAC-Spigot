@@ -10,7 +10,8 @@ GallyAC is a free anticheat designed for Spigot &amp; Lethals Network (Java vers
 * ✅ Step
 * ❌ Target Strafe
 * ✅ Speed
-* ❌ Freeze
+* ✅ Sprint
+* ✅ Spider
 
 # Combat checks
 
@@ -31,6 +32,7 @@ GallyAC is a free anticheat designed for Spigot &amp; Lethals Network (Java vers
 * ❌ Velocity
 * ❌ BlockFly
 * ❌ Timer
+* ✅ NoFall
 
 # Bypasses
 
